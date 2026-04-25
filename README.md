@@ -1,6 +1,7 @@
 # 02MajoDev
- Hola 👋
+<p align="center"> <img src="https://github.com/02KellyV/02KellyV/blob/master/Bio2.gif" alt="02KellyV" />
 
+<img src="https://github.com/02KellyV/02KellyV/blob/master/Hi.gif" width="29px">
 Soy estudiante de programación/ingeniería de sistemas/etc...
 
 Tecnologías que estoy aprendiendo
